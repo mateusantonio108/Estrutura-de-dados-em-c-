@@ -1,1 +1,4 @@
-# Estrutura-de-dados-em-c-
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
